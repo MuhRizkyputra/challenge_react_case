@@ -15,7 +15,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The Web View should appear as follows:
 
-![Screenshot from 2024-03-22 10-49-37](https://github.com/MuhRizkyputra/challenge_react_case/assets/146927082/09695add-c2f7-4a64-abe2-70126535eb31)
+![Screenshot from 2024-03-25 10-54-38](https://github.com/MuhRizkyputra/challenge_react_case/assets/146927082/52f787c2-7921-4b38-be1c-8496014b1c4d)
+
 
 # etc information
 
